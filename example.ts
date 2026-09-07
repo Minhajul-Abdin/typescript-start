@@ -16,4 +16,7 @@ function milti(a: number,b: number): void{ // nothing is going to be returned so
     const total = a+b;
 }
 
+
+
 console.log(milti(6,2));//nothing is being returned so the output is undifined
+
