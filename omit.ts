@@ -1,5 +1,5 @@
 type User = {
-    id: number,
+    id: number,//id?: number, or that if we don't want to use omit
     name: string,
     email: string,
 }
