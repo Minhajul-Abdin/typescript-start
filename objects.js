@@ -1,4 +1,3 @@
-"use strict";
 const student = {
     id: 101,
     name: "minhaj",
@@ -15,3 +14,4 @@ const student22 = {
     id: 201,
     name: "abdin",
 };
+export {};
